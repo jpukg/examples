@@ -1,4 +1,4 @@
 NTLMv2
 ========
 
-Пример GET запроса c NTLM, SSL + JKS на нативном java api
+РџСЂРёРјРµСЂ GET Р·Р°РїСЂРѕСЃР° c NTLM, SSL + JKS РЅР° РЅР°С‚РёРІРЅРѕРј java api
